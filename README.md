@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Pytorch / TensorFlow / MLops**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/AhmedAlaaPortfolio](https://www.datascienceportfol.io/AhmedAlaaPortfolio)
+- 👨‍💻 Real world projects are available at [https://www.datascienceportfol.io/AhmedAlaaPortfolio](https://www.datascienceportfol.io/AhmedAlaaPortfolio)
 
 - 💬 Ask me about **Data Cleaning / Machine Learning Algorithms**
 
